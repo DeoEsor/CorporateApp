@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "CorporateApp.Finance": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "http://localhost:5066;https://localhost:7191",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
